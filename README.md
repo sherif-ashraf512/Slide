@@ -1,2 +1,2 @@
 # Slide
-Simple slide by JS
+Simple slide by using JS , little CSS&HTML
